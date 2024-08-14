@@ -1,0 +1,24 @@
+/*
+challenge: 
+Re-design the cookie widget!
+ps: make sure you change all of the listed css
+*/
+body {
+  margin: 20px;
+}
+
+.avatar {
+  width: 150px;
+}
+
+.card {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background: #ddebf8;
+  color: #2b2839;
+  border-bottom: 10px solid rgb(129, 93, 153);
+}
